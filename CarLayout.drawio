@@ -17,7 +17,7 @@
           <mxGeometry x="499.61" y="720" width="100.39349999999999" height="279.527" as="geometry" />
         </mxCell>
         <object label="" BatteryPack="" id="c4FH-6d0Nq8pMWpeK603-8">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
             <mxGeometry x="251.73" y="150" width="216.535" height="287.401" as="geometry" />
           </mxCell>
         </object>
@@ -32,6 +32,30 @@
         </mxCell>
         <mxCell id="c4FH-6d0Nq8pMWpeK603-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="499.61" y="120" width="100.39349999999999" height="279.527" as="geometry" />
+        </mxCell>
+        <mxCell id="c4FH-6d0Nq8pMWpeK603-15" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;Battery Pack&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c4FH-6d0Nq8pMWpeK603-16" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Right Back wheel&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="77.75" y="244.76" width="184.9" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4FH-6d0Nq8pMWpeK603-17" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Left Back wheel&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="450" y="244.76" width="184.9" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4FH-6d0Nq8pMWpeK603-18" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Right Front wheel&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="77.75" y="844.76" width="184.9" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4FH-6d0Nq8pMWpeK603-19" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Left Front wheel&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="457.36" y="844.76" width="184.9" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4FH-6d0Nq8pMWpeK603-20" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;ESP 32&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="406.61" y="569.58" width="184.9" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4FH-6d0Nq8pMWpeK603-21" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;L298N&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="569.5799999999999" width="184.9" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4FH-6d0Nq8pMWpeK603-22" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Servo&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="321.32" y="979.21" width="77.36" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
