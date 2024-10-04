@@ -17,7 +17,7 @@
           <mxGeometry x="499.61" y="720" width="100.39349999999999" height="279.527" as="geometry" />
         </mxCell>
         <object label="" BatteryPack="" id="c4FH-6d0Nq8pMWpeK603-8">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
             <mxGeometry x="251.73" y="150" width="216.535" height="287.401" as="geometry" />
           </mxCell>
         </object>
